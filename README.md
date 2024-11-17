@@ -1,2 +1,3 @@
-## Flask course - Project
+## Flask  Project
+Flight prices prediction project 
 
